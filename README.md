@@ -1,2 +1,2 @@
 # logitalk-messenger
-cool messenger created my small team of school logika!
+Cool local (or not) messenger created my small team of school logika!
